@@ -24,7 +24,7 @@ Problemas
 
 Sección 1–2 Notación científica
 
-2. Exprese cada número fraccionario en notación científica: 
+2.Exprese cada número fraccionario en notación científica: 
 
 (a) 1/500 = 2x10-3
 
@@ -32,7 +32,7 @@ Sección 1–2 Notación científica
 
 (c) 1/5, 000,000 = 2x10-7 
 
-4. Exprese cada uno de los números siguientes en notación científica: 
+4.Exprese cada uno de los números siguientes en notación científica: 
 
 (a) 0.0002 = 2x10-4
 
@@ -40,7 +40,7 @@ Sección 1–2 Notación científica
 
 (c) 7.8x10-2 = 0.078 
 
-6. Exprese cada uno de los números siguientes como un número decimal regular: 
+6.Exprese cada uno de los números siguientes como un número decimal regular: 
 
 (a) 2x10 elevado a 5 = 200000
 
@@ -48,7 +48,7 @@ Sección 1–2 Notación científica
 
 (c) 1.0x10 elevado a 1= 10
 
-8. Exprese cada número de los siguientes como un número decimal regular: 
+8.Exprese cada número de los siguientes como un número decimal regular: 
 
 (a) 4.5x10-6 = 0.0000045
 
@@ -56,7 +56,7 @@ Sección 1–2 Notación científica
 
 (c) 4.0x10-12 = 0.0000000000012
 
-10. Efectúe las siguientes sustracciones: 
+10.Efectúe las siguientes sustracciones: 
 
 (a) (3.2x10 elevado a 12)-(1.1x10 elevado a 12) = 2.1x10 elevado a 12
 
@@ -64,7 +64,7 @@ Sección 1–2 Notación científica
 
 (c) (1.5x10-12)-(8x10-13) = 7x10-13
 
-12. Realice las siguientes divisiones:
+12.Realice las siguientes divisiones:
 
 (a) (1.0x10 elevado a 3) / (2.5x10 elevado a 2) = 0.4x10 elevado a 3-2 = 0.4x10 elevado a 1
 
@@ -74,7 +74,7 @@ Sección 1–2 Notación científica
  
 Sección 1–3 Notación de ingeniería y prefijos métricos 
 
-14. Exprese cada número en notación de ingeniería: 
+14.Exprese cada número en notación de ingeniería: 
 
 (a) 2.35x10 elevado a 5 = 235.00000
 
@@ -82,7 +82,7 @@ Sección 1–3 Notación de ingeniería y prefijos métricos
 
 (c) 1.333x10 elevado a 9 =1333.000000000
 
-16. Exprese cada número en notación de ingeniería: 
+16.Exprese cada número en notación de ingeniería: 
 
 (a) 9.81x10-3 = 0.981
 
@@ -90,7 +90,7 @@ Sección 1–3 Notación de ingeniería y prefijos métricos
 
 (c) 4.38x10-7 = 0.0000438
 
-18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería: 
+18.Multiplique los números siguientes y exprese cada resultado en notación de ingeniería: 
 
 (a) (32x10-3)*(56x10 elevado a 3) = 1792 
 
@@ -98,7 +98,7 @@ Sección 1–3 Notación de ingeniería y prefijos métricos
 
 (c) 100 (55x10-3) = 5.5  
 
-20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico. 
+20.Exprese cada número del problema 13 en ohms por medio de un prefijo métrico. 
 
 (a) 89.000 = 89x10 elevado a 3 kΩ
 
@@ -106,7 +106,7 @@ Sección 1–3 Notación de ingeniería y prefijos métricos
 
 (c) 12.040.000.000.000 = 12.040x10 elevado a 9 MΩ
 
-22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico: 
+22.Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico: 
 
 (a) 31x10-3 A = 31 mA
 
@@ -114,7 +114,7 @@ Sección 1–3 Notación de ingeniería y prefijos métricos
 
 (c) 20x10-12 F = 20 pF
 
-24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos: 
+24.Exprese cada una de las cantidades siguientes por medio de prefijos métricos: 
 
 (a) 2.5x10-12 A = 2.5x10-12 pA
 
@@ -122,7 +122,7 @@ Sección 1–3 Notación de ingeniería y prefijos métricos
 
 (c) 4.7x10 elevado a 3 Ω = 4.7x10 elevado a 3 kΩ
 
-26. Exprese cada cantidad en notación de ingeniería: 
+26.Exprese cada cantidad en notación de ingeniería: 
 
 (a) 5 micro A = 5x10-6 A       
 
@@ -134,7 +134,7 @@ Sección 1–3 Notación de ingeniería y prefijos métricos
 
 Sección 1–4 Conversiones de unidades métricas 
 
-28. Determine lo siguiente:  
+28.Determine lo siguiente:  
 
 (a) El número de microamperes en 1 miliampere 
 
@@ -152,7 +152,7 @@ Sección 1–4 Conversiones de unidades métricas
 
 0.000155 kilowatts en 155 miliwatts
 
-30. Realice las siguientes operaciones: 
+30.Realice las siguientes operaciones: 
 
 (a) 10 kilohms / (2.2 kilohms + 10 kilohms) = 10 kilohms /12.2 kilohms = 0.81 kilohms 
 
@@ -168,25 +168,25 @@ Sección 2–2 Carga eléctrica
 
 1.60x10-19
 
-4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
+4.¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 
 6.25X10 elevado a 18 * 80mC = 500X10 elevado a 12 MC
 
 Sección 2–3 Voltaje, corriente y resistencia 
 
-6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+6.Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
 V = W/Q
 
 V = 500J/100C = 5 v
 
-8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito? 
+8.¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito? 
 
 W = Q*V
 
 W = 2.5C * 12 V = 30 J 
 
-10. Determine la corriente en cada uno de los siguientes casos: 
+10.Determine la corriente en cada uno de los siguientes casos: 
 
 (a) 75 C en 1 s 
 
@@ -206,7 +206,7 @@ I = Q/T
 
 I = 5C/2s =2.5 A
 
-12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? 
+12.¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A? 
 
 I = Q/T
 
@@ -224,7 +224,7 @@ I = Q/T
 
 I = 91.84 mC/ 250 ms = 0.36 A
 
-16. Encuentre la resistencia correspondiente a las siguientes conductancias: 
+16.Encuentre la resistencia correspondiente a las siguientes conductancias: 
 
 (a) 0.1 S
 
@@ -250,7 +250,7 @@ Sección 2–4 Fuentes de voltaje y de corriente
 
 En la Inducción electromagnética 
 
-20. Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga? 
+20.Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga? 
 
 V = I * R 
 
@@ -260,7 +260,7 @@ I = V/R
 
 I= 100/500 = 0.2 A = 200 mA
 
-22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21. 
+22.Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21. 
 
 a) 27KΩ ± 5%
 
@@ -274,7 +274,7 @@ b) 1.8KΩ ± 10%
 
 1800 * 0.1 = 180Ω              1800 - 180 = 1,620Ω mínima
 
-24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
+24.Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas: 
 
 (a) café, negro, negro, oro = 10x1 = 10Ω ± 5%
 
@@ -290,7 +290,7 @@ b) 1.8KΩ ± 10%
 
 (c) blanco, naranja, café, café, café = 9310 = 9.31KΩ ± 1%
 
-28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000, ¿cuál es la resistencia entre cada terminal y el contacto ajustable? 
+28.El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000, ¿cuál es la resistencia entre cada terminal y el contacto ajustable? 
 
 La resistencia entre cada terminal es de 500Ω
 
@@ -309,6 +309,7 @@ La resistencia entre cada terminal es de 500Ω
 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores? 
 
 ![image](https://user-images.githubusercontent.com/105823435/170365951-c58dec9b-fa75-47c2-963c-6c245174608c.png)
+
 R5
 
 36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador. 
@@ -328,14 +329,13 @@ Se lo mediría con un óhmetro conectando los dos extremos de la resistencia.
 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70. 
 
 ![image](https://user-images.githubusercontent.com/105823435/170367238-eee77f86-33fb-4fca-b9c8-6ed4bee7cda9.png)
-
 44. ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75? 
 
 ![image](https://user-images.githubusercontent.com/105823435/170367327-337ba876-6561-4535-877f-e8d00e101a60.png)
 
 Está midiendo por 10 ohm
 
-46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+46.¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
 Mostrará una resolución máxima de19.999 recuentos.
 
