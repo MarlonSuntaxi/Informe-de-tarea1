@@ -1,5 +1,5 @@
 # Informe-de-tarea1
-1.Objetivos
+1-.Objetivos
 
 General 
 
@@ -11,7 +11,7 @@ Específicos
 
 .Determinar correctamente las unidades pedidas en los ejercicios.
 
-2.Marco teórico
+2-.Marco teórico
 
 ![image](https://user-images.githubusercontent.com/105823435/170362659-91e17b5b-2a9f-460f-b769-773ad420e8e0.png)
 ![image](https://user-images.githubusercontent.com/105823435/170363311-7fbedd0d-b237-408e-a1d2-7d96286cf4b0.png)
@@ -19,7 +19,7 @@ Específicos
 ![image](https://user-images.githubusercontent.com/105823435/170363671-bd4c95d3-4a44-4628-ae5f-a9d8f85ad5bb.png)
 ![image](https://user-images.githubusercontent.com/105823435/170363893-e9e534f1-6ffe-482d-92c2-f9b2f050ff7c.png)
 
-3.Resolución de ejercicios o problemas
+3-.Resolución de ejercicios o problemas
 
 Problemas 
 
@@ -341,15 +341,15 @@ Está midiendo por 10 ohm
 
 Mostrará una resolución máxima de19.999 recuentos.
 
-4.Video
+4-.Video
 
 https://www.youtube.com/watch?v=a0F4_9uVoIk
 
-5.Conclusion
+5-.Conclusion
 
 Se logró analizar y aplicar los métodos investigados en los capítulos uno y dos, así como también resolver los ejercicios con sus unidades correspondientes.
 
-6.Bibliografia 
+6-.Bibliografia 
 
 Dominguez, R. (8 de Junio de 2014). blogspot. Obtenido de blogspot: http://electricidadipl.blogspot.com/2014/06/magnitudes-electricas-fundamentales.html
 
