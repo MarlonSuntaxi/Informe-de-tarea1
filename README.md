@@ -4,6 +4,7 @@
 General 
 
 .Identificar los conceptos de los capítulos 1 y 2 con la finalidad de resolver los ejercicios propuestos.
+
 Específicos 
 
 .Analizar y aplicar los métodos dados en los capítulos uno y dos.
@@ -164,7 +165,7 @@ Problemas
 
 Sección 2–2 Carga eléctrica
 
-2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro? 
+2.¿Cuál es la carga en coulombs del núcleo de un átomo de cloro? 
 
 1.60x10-19
 
@@ -329,6 +330,7 @@ Se lo mediría con un óhmetro conectando los dos extremos de la resistencia.
 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70. 
 
 ![image](https://user-images.githubusercontent.com/105823435/170367238-eee77f86-33fb-4fca-b9c8-6ed4bee7cda9.png)
+
 44. ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75? 
 
 ![image](https://user-images.githubusercontent.com/105823435/170367327-337ba876-6561-4535-877f-e8d00e101a60.png)
